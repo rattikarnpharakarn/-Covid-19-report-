@@ -1,0 +1,16 @@
+.covid-19{
+    color: red;
+  
+}
+.card{
+    background-color: rgb(190, 31, 31);
+    color:white;
+    border-radius:20px;
+
+}
+.card-sub{
+    color:white;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
